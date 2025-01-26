@@ -1,2 +1,2 @@
 DEMO PORTFOLIO WEBSITE
-Created using HTML, CSS & JavaScript
+Created by using HTML, CSS & JavaScript
