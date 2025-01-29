@@ -10,6 +10,7 @@
 body {
   font-family: "Poppins", sans-serif;
    background-color: #f9f9f9;
+   background-image: linear-gradient(to right, purple , green);
 }
 
 html {
