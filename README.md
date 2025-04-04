@@ -1,6 +1,6 @@
 ## DEMO PORTFOLIO WEBSITE
 
-  Created by using HTML, CSS & JavaScript
+  **Created by using HTML, CSS & JavaScript**
 
             HTML
             CSS
