@@ -5,4 +5,5 @@ function toggleMenu() {
   icon.classList.toggle("open");
 }
 
+
 // only JS code
